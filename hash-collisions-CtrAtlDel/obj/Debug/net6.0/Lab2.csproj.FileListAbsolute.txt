@@ -1,0 +1,15 @@
+/Users/ivankvasov/view/hash-collisions-CtrAtlDel/bin/Debug/net6.0/Lab2
+/Users/ivankvasov/view/hash-collisions-CtrAtlDel/bin/Debug/net6.0/Lab2.deps.json
+/Users/ivankvasov/view/hash-collisions-CtrAtlDel/bin/Debug/net6.0/Lab2.runtimeconfig.json
+/Users/ivankvasov/view/hash-collisions-CtrAtlDel/bin/Debug/net6.0/Lab2.dll
+/Users/ivankvasov/view/hash-collisions-CtrAtlDel/bin/Debug/net6.0/ref/Lab2.dll
+/Users/ivankvasov/view/hash-collisions-CtrAtlDel/bin/Debug/net6.0/Lab2.pdb
+/Users/ivankvasov/view/hash-collisions-CtrAtlDel/obj/Debug/net6.0/Lab2.csproj.AssemblyReference.cache
+/Users/ivankvasov/view/hash-collisions-CtrAtlDel/obj/Debug/net6.0/Lab2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ivankvasov/view/hash-collisions-CtrAtlDel/obj/Debug/net6.0/Lab2.AssemblyInfoInputs.cache
+/Users/ivankvasov/view/hash-collisions-CtrAtlDel/obj/Debug/net6.0/Lab2.AssemblyInfo.cs
+/Users/ivankvasov/view/hash-collisions-CtrAtlDel/obj/Debug/net6.0/Lab2.csproj.CoreCompileInputs.cache
+/Users/ivankvasov/view/hash-collisions-CtrAtlDel/obj/Debug/net6.0/Lab2.dll
+/Users/ivankvasov/view/hash-collisions-CtrAtlDel/obj/Debug/net6.0/ref/Lab2.dll
+/Users/ivankvasov/view/hash-collisions-CtrAtlDel/obj/Debug/net6.0/Lab2.pdb
+/Users/ivankvasov/view/hash-collisions-CtrAtlDel/obj/Debug/net6.0/Lab2.genruntimeconfig.cache
